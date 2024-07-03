@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+	background-image: url("zohasHeart.png");
+}
+
+.heading {
+	color: antiquewhite;
+	justify-content: center;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.song {
+	display: flex;
+}
